@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+server/.env
+server/serviceAccountKey.json
+.env.local
+.env.production
+*.log
+.DS_Store
+.vscode
+.idea
+coverage
+*.tsbuildinfo
+supabase/.branches
+supabase/.temp
