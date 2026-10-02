@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClassIn LMS – SMK Negeri 2 Indramayu
 
 Learning Management System berbasis React + Vite + TypeScript + Tailwind CSS untuk SMK Negeri 2 Indramayu.
@@ -159,3 +160,6 @@ SMK Negeri 2 Indramayu
 
 sandi GMAIL STIMP
 xzsn hdnl ehrz ylxl
+=======
+# SMKN2INDRAMAYU-LMS
+>>>>>>> 1fff1c1d416314056c002645c78270cadadb8bde
